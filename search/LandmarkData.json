@@ -1,0 +1,21 @@
+[
+    {
+        "title":"V11",
+        "condition":"in-stock",
+        "price":"$599.99",
+        "isCan":true
+    },
+    {
+        "title":"V11",
+        "condition":"in-stock",
+        "price":"$399.99",
+        "isCan":false
+    },
+    {
+        "title":"V11",
+        "condition":"in-stock",
+        "price":"$399.99",
+        "isCan":true
+    }
+]
+
